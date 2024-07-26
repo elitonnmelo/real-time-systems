@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12)
 
-# Name project
+# Name project  
 SET(ProjectName pratica_02)
 
 # ${CMAKE_CURRENT_SOURCE_DIR}
